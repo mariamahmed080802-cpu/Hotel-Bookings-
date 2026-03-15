@@ -41,7 +41,11 @@ hotel-booking-analysis/
 | **License** | CC0: Public Domain |
 
 ---
+## 📥 Download
+The full Excel workbook (cleaned data + analysis + dashboard) is available here:
+[Download Excel File](https://docs.google.com/spreadsheets/d/113BNQRvJYz_kpglou2EFPM4TnHih_Zu1/edit?usp=drive_link&ouid=109679100370012780952&rtpof=true&sd=true)
 
+---
 ## 🧹 Data Cleaning & Preprocessing
 
 All cleaning was performed in Excel and documented in a dedicated sheet. The following issues were identified and resolved:
