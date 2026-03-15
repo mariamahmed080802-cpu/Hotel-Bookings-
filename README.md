@@ -120,13 +120,13 @@ The dashboard was built in Excel using Pivot Charts, presenting a clear visual s
 - Average ADR
 
 ### Visualizations
-- **Booking vs Cancellation over Months** — Clustered Bar Chart showing monthly booking and cancellation volumes
-- **Booking vs Cancellation by Hotel Type** — Clustered Bar Chart comparing City Hotel vs Resort Hotel
-- **Booking vs Cancellation by Lead Duration** — Horizontal Bar Chart comparing Short, Medium, and Long lead time bookings
-- **ADR Average by Month** — Line Chart showing ADR seasonality across all 12 months
-- **Total Bookings by Country** — Bar Chart showing top 15 guest source countries
-- **Bookings by Customer Type** — Pie Chart showing distribution across Contract, Group, Transient, and Transient-Party
-- **Revenue vs ADR by Room Type** — Combo Chart with dual axis showing total revenue (bar) and average ADR (line) per room type
+- **Booking vs Cancellation over Months** 
+- **Booking vs Cancellation by Hotel Type** 
+- **Booking vs Cancellation by Lead Duration** 
+- **ADR Average by Month** 
+- **Total Bookings by Country** 
+- **Bookings by Customer Type** 
+- **Revenue vs ADR by Room Type** type
 
 > 📸 *See `dashboard_preview.png` for a full screenshot of the dashboard*
 
