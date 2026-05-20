@@ -23,7 +23,6 @@ The project demonstrates a complete data analytics workflow entirely within Micr
 hotel-booking-analysis/
 │
 ├── hotel_bookings_raw.csv          # Original unmodified dataset
-├── hotel_bookings_analysis.xlsx    # Cleaned data, analysis & dashboard
 ├── dashboard_preview.png           # Screenshot of the final dashboard
 └── README.md                       # Project documentation
 ```
